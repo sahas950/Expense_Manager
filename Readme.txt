@@ -17,6 +17,8 @@ How to run the Expense Manager Project :--
 
 8.> Run the script http://localhost/MyProject (frontend)
 
+Technology Used: HTML/CSS, PHP, MySQL, JavaScript
+
 Credential for user panel OR you can register your self:
 Username: root
 Password: 
